@@ -2,6 +2,7 @@
   "name": "ilrwebservices/campaign-monitor-rest-api-client",
   "type": "library",
   "description": "PHP library for the CampaignMonitor 'createsend' API",
+  "license": "MIT",
   "keywords": ["campaignmonitor", "mail"],
   "homepage": "https://github.com/ilrWebServices/campaignmonitor-api-php",
   "require": {
